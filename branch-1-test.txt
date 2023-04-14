@@ -1,1 +1,2 @@
-Added any line text / muutsin seda 1.konfliktis
+Added any line text - muutsin seda 1.konfliktis ning Added any line text - muutsin task 9-s nüüd sama faili branch-2s
+nüüd muutsin selle faili käsitsi üheks
